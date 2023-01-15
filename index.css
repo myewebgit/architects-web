@@ -1,0 +1,176 @@
+.nav {
+    background-color: antiquewhite;
+    height: 80px;
+    width: 100%;
+    color: black;
+    padding: 20px;
+    margin-bottom: 0px;
+
+}
+
+.nav ul {
+    float: right;
+    margin-right: 20px;
+    margin-left: 100px;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+.name {
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-left: 150px;
+}
+
+/* <!-- ***** Start of  Top Section**************** --> */
+.top-title {
+    text-align: center;
+    padding-bottom: 20px;
+    background-color: antiquewhite;
+}
+
+.caption {
+    padding-top: 50px;
+    font-size: 30px;
+    font-weight: bold
+}
+
+.button {
+    color: white;
+    background-color: orange;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.middle {
+    display: flex;
+    width: 80%;
+    padding: 30px;
+}
+
+.img {
+
+    width: 50%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 5px;
+}
+
+.text {
+    width: 50%;
+    margin-left: 250px;
+    padding-top: 200px;
+}
+
+.text-color-1 {
+    color: grey;
+}
+
+.text-color-2 {
+    color: black;
+    font-weight: bolder;
+}
+
+.text-color-3 {
+    color: orange;
+    font-weight: bolder;
+}
+
+.third-part {
+    display: flex;
+    width: 80%;
+    margin-left: 50px;
+}
+
+.text-top {
+    border-left: 5px solid orange;
+    padding-left: 5px;
+}
+
+.image {
+    width: 40%;
+    padding-left: 170px;
+}
+
+.text-part {
+    width: 60%;
+}
+
+.shadow {
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px gray;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.img-exp {
+    background-color: orange;
+    color: white;
+    font-size: larger;
+    padding: 20px;
+    border-radius: 10px;
+    width: 55%;
+    row-gap: 0px;
+    margin-top: -100px;
+    margin-left: -45px;
+}
+
+.facts {
+    margin-left: 100px;
+}
+
+.icons-div {
+    display: flex;
+    margin-left: 150px;
+}
+
+.icons {
+    border: 1px solid orange;
+    padding: 10px;
+    border-radius: 5px;
+    height: 150px;
+    width: 150px;
+    margin-left: 20px;
+    text-align: center;
+}
+
+.sponsors {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.logo {
+    display: flex;
+    padding: 20px;
+}
+
+.footer {
+    background-color: antiquewhite;
+    /* margin-left: 300px;
+    margin-right: 300px; */
+    /* padding-top: 20px; */
+    width: 80%;
+}
+
+.footer-text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 250px;
+}
